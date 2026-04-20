@@ -39,6 +39,22 @@ The source code is located in the root directory, categorized by practical sets.
 *   **Practical 21**: Voting App (Throw Exception)
 *   **Practical 22**: Library System (Custom Exception)
 
+### 📂 [SET_7_THREADING]
+*   **Practical 23**: Multi-threading with Intervals
+*   **Practical 24**: Sequential Thread Execution (Join)
+*   **Practical 25**: Synchronized Multiplication Tables
+
+### 📂 [SET_8_FILE_IO]
+*   **Practical 26**: Command-Line File Statistics
+*   **Practical 27**: Student Records (File I/O)
+*   **Practical 28**: Detailed File Analysis
+
+### 📂 [SET_9_COLLECTIN_FRAMEWORK_AND_GENERICS]
+*   **Practical 29**: Student Marks (ArrayList)
+*   **Practical 30**: Word Frequency (HashMap)
+*   **Practical 31**: Music Playlist (LinkedList)
+*   **Practical 32**: Generic Search Method
+
 ## How to Run
 
 1.  Navigate to the specific set folder.
