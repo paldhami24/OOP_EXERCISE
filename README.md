@@ -55,6 +55,11 @@ The source code is located in the root directory, categorized by practical sets.
 *   **Practical 31**: Music Playlist (LinkedList)
 *   **Practical 32**: Generic Search Method
 
+### 📂 [SET_10_JAVA_FX]
+*   **Practical 33**: Text Styling with VBox
+*   **Practical 34**: Registration Form with Validation
+*   **Practical 35**: Grade Distribution Bar Chart
+
 ## How to Run
 
 1.  Navigate to the specific set folder.
